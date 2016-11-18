@@ -1,0 +1,69 @@
+#comic{
+	width:180px;
+	height:170px;
+	margin:8px 15px 8px 15px;
+	opacity:0.87;
+	box-shadow:4px 4px 3px rgba(20%,20%,40%,0.5);
+}
+
+#comic:hover{
+	opacity:1.0;
+	filter:alpha(opacity=100); /* For IE8 and earlier */
+}
+
+#picture{
+	width:400px;
+	height:350px;
+	margin-left:500px;
+	margin-top:10px;
+	box-shadow:4px 4px 3px rgba(20%,20%,40%,0.5);
+}
+#comic_content{
+	width:900px;
+	height:500px;
+	background-color:	#6978F0;
+	position:absolute;
+	margin-top:60px;
+	margin-left:220px;
+}
+
+#content_comic{
+	width:900px;
+	background-color:white;
+	position:absolute;
+	margin-top:60px;
+	margin-left:220px;
+}
+
+#number{
+	margin:5px;
+}
+
+#show{
+	margin-left:50px;
+}
+
+#show_post{
+	width:180px;
+	height:170px;
+	margin:8px 15px 8px 15px;
+	opacity:0.87;
+	box-shadow:4px 4px 3px rgba(20%,20%,40%,0.5);
+}
+
+#show_post:hover{
+	opacity:1.0;
+	filter:alpha(opacity=100); /* For IE8 and earlier */
+}
+
+#all{
+	width:350px;
+	background-color:white;
+	margin-left:525px;
+	margin-top:10px;
+	
+}
+#value{
+	margin-left:630px;
+	margin-top:5px;
+}
